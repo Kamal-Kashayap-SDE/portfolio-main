@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d83cac97.css",
-    "main.js": "/static/js/main.32230f3f.js",
-    "static/media/React-App-netflix-clone.png": "/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
-    "static/media/Charlestown-Pizza.png": "/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
-    "static/media/Gridlinesbuilders.png": "/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
-    "static/media/web-removebg-preview.png": "/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
-    "static/media/Web-designer-1024x821.webp": "/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
-    "static/media/SER.webp": "/static/media/SER.eac1bb56927b91eb2c8a.webp",
-    "static/media/todolist.png": "/static/media/todolist.13858f78acbb5bec224e.png",
-    "static/media/logor.png": "/static/media/logor.0d708e622df73a1b7291.png",
-    "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
-    "index.html": "/index.html",
-    "main.d83cac97.css.map": "/static/css/main.d83cac97.css.map",
-    "main.32230f3f.js.map": "/static/js/main.32230f3f.js.map"
+    "main.css": "/portfolio-main/static/css/main.dd4280be.css",
+    "main.js": "/portfolio-main/static/js/main.1d5bade8.js",
+    "static/media/React-App-netflix-clone.png": "/portfolio-main/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/portfolio-main/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/portfolio-main/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/web-removebg-preview.png": "/portfolio-main/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/portfolio-main/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/SER.webp": "/portfolio-main/static/media/SER.eac1bb56927b91eb2c8a.webp",
+    "static/media/todolist.png": "/portfolio-main/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/portfolio-main/static/media/logor.0d708e622df73a1b7291.png",
+    "static/media/bars.svg": "/portfolio-main/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/portfolio-main/index.html",
+    "main.dd4280be.css.map": "/portfolio-main/static/css/main.dd4280be.css.map",
+    "main.1d5bade8.js.map": "/portfolio-main/static/js/main.1d5bade8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d83cac97.css",
-    "static/js/main.32230f3f.js"
+    "static/css/main.dd4280be.css",
+    "static/js/main.1d5bade8.js"
   ]
 }
