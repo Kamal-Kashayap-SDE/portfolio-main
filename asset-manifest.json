@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d83cac97.css",
-    "main.js": "/static/js/main.d683497a.js",
+    "main.js": "/static/js/main.32230f3f.js",
     "static/media/React-App-netflix-clone.png": "/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
     "static/media/Charlestown-Pizza.png": "/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
     "static/media/Gridlinesbuilders.png": "/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
@@ -13,10 +13,10 @@
     "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
     "index.html": "/index.html",
     "main.d83cac97.css.map": "/static/css/main.d83cac97.css.map",
-    "main.d683497a.js.map": "/static/js/main.d683497a.js.map"
+    "main.32230f3f.js.map": "/static/js/main.32230f3f.js.map"
   },
   "entrypoints": [
     "static/css/main.d83cac97.css",
-    "static/js/main.d683497a.js"
+    "static/js/main.32230f3f.js"
   ]
 }
